@@ -20,7 +20,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/vaiibhuu">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Meera's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Vaibhavi's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -28,7 +28,7 @@
         <div align="center" width="100%">
           <a href="https://github.com/disismeera">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=vaiibhuu&show_icons=true&hide=stars&hide_border=true](https://github-readme-stats.vercel.app/api?username=vaiibhuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Meera's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=vaiibhuu&show_icons=true&hide=stars&hide_border=true](https://github-readme-stats.vercel.app/api?username=vaiibhuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Vaibhavi's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
