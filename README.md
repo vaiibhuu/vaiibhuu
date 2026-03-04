@@ -1,67 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhavi Parmar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="center">Hellooowww, I’m Vaibhavi Parmar 🙋‍♀️ </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhuu&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhuu" /> </p>
 
-- 👀 I’m interested in Learning and Exploring new Technologies.
-- 🌱 I’m currently studying Master of Science in Information & Techbology.
-- 🎯 Interested in Developing Front-End.
-- 😄 Pronouns: She/Her
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vaibhavi-parmar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavi-parmar21" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhuu&show_icons=true&locale=en" alt="vaibhuu" /></p>
 
- 
-
-### GitHub Stats 📈
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/vaiibhuu">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disismeera&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Vaibhavi's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/disismeera">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=vaiibhuu&show_icons=true&hide=stars&hide_border=true](https://github-readme-stats.vercel.app/api?username=vaiibhuu&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Vaibhavi's GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
-<div align='center'>  
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaiibhuu&theme=dark&hide_border=true)<br/>
-  
-  </div>
-
-<h3>Let's Chat</h3>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vaibhavi-parmar21/)
-
----
-<div align='center'>
-
-![](https://komarev.com/ghpvc/?username=vaiibhuu&label=Profile+Views)
-
-</div>
-
-
-
-
-
-
-
-<!---
-Vaiibhuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhuu&" alt="vaibhuu" /></p>
